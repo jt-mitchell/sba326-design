@@ -2,7 +2,7 @@
   width: 10%;
   background-image: url("images/bg-pattern-quotation.svg");
 
-  background-size: 40px 40px;
+  background-position-x: 300px;
 
   background-repeat: no-repeat;
 }
