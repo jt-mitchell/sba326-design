@@ -1,3 +1,15 @@
+body {
+  font-size: 0.8125em;
+  /* font-weight: 500, 600; */
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
 .bg-svg {
   /* width: 10%; */
   background-image: url("images/bg-pattern-quotation.svg");
